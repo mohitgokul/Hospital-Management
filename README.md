@@ -1,6 +1,7 @@
 # Hospital Management System  ![AUR](https://img.shields.io/badge/build-passing-brightgreen.svg) ![AUR](https://img.shields.io/badge/BUILT%20WITH-Netbeans-blue.svg)
-A desktop application written in Java for a Hospital Management System. 
-A project made in class-12 (CBSE-Informatics and Practices). 
+A desktop application which records the Information of Patients, Doctors and Billing in a database. 
+It is password protected and built using JAVA and MySQL for storing information in the database.
+
 * Provides password protected Admin panel.
 * MySql for backend
 * Sleek interface
